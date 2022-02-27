@@ -40,7 +40,7 @@ class _homepageState extends State<homepage> {
       
         centerTitle: true,
         backgroundColor:Colors.pink[400],
-        title: Text("HOME PAGE"),
+        title: Text("HOME vbmnmE"),
       ),
       floatingActionButton: FloatingActionButton(onPressed: (){
         Navigator.of(context).pushNamed("addnote");
